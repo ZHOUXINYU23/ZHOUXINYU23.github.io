@@ -10,7 +10,7 @@ My current research interests focus on **model quantization**, especially effici
 - **Affiliation:** Tianjin University
 - **Position:** Master's Student
 - **Research Area:** Artificial Intelligence, Model Quantization
-- **Email:** zhouxinyu2003@tju.edu.com
+- **Email:** zhouxinyu2003@tju.edu.cn
 
 ## Research Interests
 
